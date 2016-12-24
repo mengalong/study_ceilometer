@@ -19,3 +19,9 @@ http://blog.csdn.net/gaoxingnengjisuan/article/category/2748301
 http://www.cnblogs.com/yasmi/p/5183423.html
 
 https://segmentfault.com/a/1190000004004179
+
+# unittest
+
+https://wiki.openstack.org/wiki/Testr#Debugging_.28pdb.29_Tests
+
+https://developer.ibm.com/opentech/2015/02/06/guide-testing-openstack/
