@@ -20,6 +20,8 @@ http://www.cnblogs.com/yasmi/p/5183423.html
 
 https://segmentfault.com/a/1190000004004179
 
+http://www.chenshake.com/cloud-computing/
+
 # unittest
 
 https://wiki.openstack.org/wiki/Testr#Debugging_.28pdb.29_Tests
